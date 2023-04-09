@@ -22,7 +22,7 @@ public class Assignment1 {
 	{
 		int result;
 		result = s1 * s2;
-		System.out.println("final result is "+result);
+		System.out.println("final reslt is "+result);
 	}
 	public static void main(String[] args)
 	{
