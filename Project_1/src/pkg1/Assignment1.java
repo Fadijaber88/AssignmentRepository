@@ -1,7 +1,5 @@
 package pkg1;
 
-import java.nio.charset.MalformedInputException;
-
 public class Assignment1 {
 	
 	public int sum(int a, int b)
